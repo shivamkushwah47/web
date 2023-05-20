@@ -5,6 +5,8 @@
 
 4.this is stash text
 
+4.1 plush line
+
 5.just text
 
 6. another check
