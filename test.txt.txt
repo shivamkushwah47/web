@@ -1,9 +1,6 @@
 hii this shiva
-<<<<<<< Updated upstream
 hello sir
-=======
 
 new line
 
 this is stash text
->>>>>>> Stashed changes
